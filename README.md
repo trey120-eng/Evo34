@@ -7,12 +7,10 @@ then the case which I made many designs but only printed 2 of them and i use klp
 I used jlc3dp and jlcpcb to make everything 
 
 > [!WARNING]
-This keyboard has muiltiple problems.
-I will try to improve it but actively there are flaws with my design such as:
-
-
-- The case needs a lot of improvement and adjustments 
-* pcb needs improvments but fully working
+> This keyboard has muiltiple problems.
+> I will try to improve it but actively there are flaws with my design such as:
+> The case needs a lot of improvement and adjustments 
+> pcb needs improvments but fully working
 
 
 ![20260228_122454_001_saved](https://github.com/user-attachments/assets/96ab90b0-ecb0-4d44-a1eb-496da6fe291a)
