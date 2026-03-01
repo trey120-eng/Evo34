@@ -4,10 +4,10 @@ then i made the first pcb which was meant to use the seeed studio xiao nrf52480 
 moved on to the NiceNano V2 which made it possible to add a reset button and power (there probably was a to add them but i didnt know how)
 then the case which I made many designs but only printed 2 of them and i use klp lame keycaps
 I used jlc3dp and jlcpcb to make everything 
-
-
-
-
+#
+#
+#
+#
 
 # WARNING
 This keyboard has muiltiple problems.
