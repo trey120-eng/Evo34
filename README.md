@@ -4,9 +4,9 @@ i designed it for a 8th grade project and i decided to open source it
 The evo34 uses zmk frimware with zmk studio support 
 also there is a unibody version which [here](https://shield-wizard.genteure.workers.dev/)
 
-it uses a NiceNanoV2 (i used a clone for cost saving)
-klplame keycaps made by braindefender
-and the reset button, power switch, and battery are from typeractive 
+1) it uses a NiceNanoV2 (i used a clone for cost saving)
+2) klplame keycaps made by braindefender
+3) and the reset button, power switch, and battery are from typeractive 
 
 
 
