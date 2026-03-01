@@ -8,7 +8,8 @@ I used jlc3dp and jlcpcb to make everything
 
 > [!WARNING]
 > This keyboard has muiltiple problems.
-> I will try to improve it but actively there are flaws with my design such as:
+I will try to improve it but actively there are flaws with my design such as:
+
 The case needs a lot of improvement and adjustments
 pcb needs improvments but fully working
 
