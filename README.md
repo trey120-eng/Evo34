@@ -6,7 +6,7 @@ moved on to the NiceNano V2 which made it possible to add a reset button and pow
 then the case which I made many designs but only printed 2 of them and i use klp lame keycaps
 I used jlc3dp and jlcpcb to make everything 
 
-# WARNING
+# #FF0000 WARNING
 This keyboard has muiltiple problems.
 I will try to improve it but actively there are flaws with my design such as:
 
