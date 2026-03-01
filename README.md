@@ -6,7 +6,8 @@ This is the Evo34 its designed using ergogen and kicad.
 > This keyboard has muiltiple problems.
 I will try to improve it but actively there are flaws with my design such as:
 
-- The case needs a lot of improvement and adjustments
+
+*The case needs a lot of improvement and adjustments
 * pcb needs improvments but fully working
 * and this is a repo just for the files and parts no asemably guide
 
