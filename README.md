@@ -1,4 +1,4 @@
-*This is the Evo34 its designed using ergogen and kicad.
+* This is the Evo34 its designed using ergogen and kicad.
 
 i designed it for a 8th grade project and i decided to open source it
 the Evo34 uses a NiceNanoV2 (i used a clone for cost saving)
