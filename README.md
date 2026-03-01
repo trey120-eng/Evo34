@@ -14,3 +14,6 @@ I will try to improve it but actively there are flaws with my design such as:
 1) The case needs a lot of improvement and adjustments 
 2) Battery reporting isnt added which makes it say 0% when connected
 3) pcb needs improvments but fully working
+
+
+![20260228_122454_001_saved](https://github.com/user-attachments/assets/96ab90b0-ecb0-4d44-a1eb-496da6fe291a)
